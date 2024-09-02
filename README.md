@@ -16,11 +16,8 @@ Welcome to Ebook Store !!! This is a full-stack ebook store application develope
 
 ## Technologies Used
 - Frontend: React.js
-
 - Backend: Node.js, Express.js
-
 - Database: MongoDB
-
 - Testing: Postman
 
 ## Built With
